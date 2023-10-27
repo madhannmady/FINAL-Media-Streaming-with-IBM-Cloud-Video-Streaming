@@ -1,3 +1,7 @@
+## Netflix Clone - using Cloud for streaming videos.
+
+![Screenshot 2023-10-27 161223](https://github.com/madhannmady/FINAL-Media-Streaming-with-IBM-Cloud-Video-Streaming/assets/123820592/6b92b1e0-2ac8-47d7-a84d-eed965a6d95d)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
